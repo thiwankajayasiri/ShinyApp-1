@@ -12,11 +12,10 @@ There is a chart selection diagram created by Dr. Andrew Abela that should help 
   <img src="https://github.com/thiwankajayasiri/ShinyApp-1/blob/master/chart-selection-diagram.png" width="650" title="Chart-Selection">
 </p>
 
-
-
-
 ## Charts covered under this app are as follows,
 
--Rising order Chart 
--Box Plot
--Scatter plot
+# Chart-Types
+* Rising order Chart 
+* Box Plot
+* Scatter plot
+* Homogenity
