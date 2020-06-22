@@ -18,4 +18,5 @@ There is a chart selection diagram created by Dr. Andrew Abela that should help 
 ## Charts covered under this app are as follows,
 
 -Rising order Chart 
--
+-Box Plot
+-Scatter plot
