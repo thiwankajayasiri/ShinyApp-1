@@ -13,8 +13,6 @@ There is a chart selection diagram created by Dr. Andrew Abela that should help 
 </p>
 
 ## Charts covered under this app are as follows,
-
-# Chart-Types
 * Rising order Chart 
 * Box Plot
 * Scatter plot
