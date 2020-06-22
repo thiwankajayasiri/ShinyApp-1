@@ -5,7 +5,7 @@ Interact. Analyze. Communicate.
 Object of this application to provide with a basic template to start off with Shiny-R.
 
 
-## Chart-Selecction
+## Chart-Selection
 There is a chart selection diagram created by Dr. Andrew Abela that should help you pick the right chart for your data type. 
 
 <p align="center">
