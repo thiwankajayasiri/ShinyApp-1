@@ -9,7 +9,7 @@ Object of this application to provide with a basic template to start off with Sh
 There is a chart selection diagram created by Dr. Andrew Abela that should help you pick the right chart for your data type. 
 
 <p align="center">
-  <img src="https://github.com/thiwankajayasiri/ShinyApp-1/blob/master/chart-selection-diagram.png" width="350" title="Chart-Selection">
+  <img src="https://github.com/thiwankajayasiri/ShinyApp-1/blob/master/chart-selection-diagram.png" width="650" title="Chart-Selection">
 </p>
 
 
